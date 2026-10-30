@@ -26,7 +26,7 @@ Say what belongs in this issue and what should wait. "Use only the supplied exer
 
 **Done when:** Every supplied exercise appears once with its name, instructions, and agreed amount. Each exercise has a labeled illustration that agrees with the instructions. Supplied source links remain accessible. At phone width, the page has no horizontal scrolling. Missing instructions are flagged rather than invented.
 
-**Scope and checks:** Build the display and a short usage guide. Leave exercise selection, accounts, wearables, and hosting for later. Try a complete fictional plan and one missing instructions; compare the page with each input and review the illustrations. Stop and report any unresolved mismatch.
+**Scope and checks:** Build the display and a short usage guide. Leave exercise selection, accounts, wearables, and hosting for later. Try a complete fictional plan and one plan with missing instructions; compare the page with each input and review the illustrations. Stop and report any unresolved mismatch.
 
 ## Review before you delegate
 
