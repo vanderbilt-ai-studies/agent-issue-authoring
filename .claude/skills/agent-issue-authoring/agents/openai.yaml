@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Issue Authoring"
+  short_description: "Write clear issues that steer an AI development agent"
+  default_prompt: "Use $agent-issue-authoring to help me draft or improve an issue for this project."
